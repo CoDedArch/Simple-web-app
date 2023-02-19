@@ -1,0 +1,6 @@
+ImmutableMultiDict([('phrase', 'martin lutter kin was great'), ('letters', 'tyuerst')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|{'r', 's', 'u', 'e', 't'}
+ImmutableMultiDict([('phrase', 'martin lutter kin was great'), ('letters', 'jesus')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|{'u', 'e', 's'}
+ImmutableMultiDict([('phrase', 'lilliloi'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|{'o', 'i'}
+ImmutableMultiDict([('phrase', 'hallamadrid'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|{'a', 'i'}
+ImmutableMultiDict([('phrase', 'mother of jusus'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|{'o', 'e', 'u'}
+ImmutableMultiDict([('phrase', 'simple but scary'), ('letters', 'my all')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36|{'y', 'l', 'a', 'm', ' '}

@@ -1,0 +1,22 @@
+body{
+  box-sizing: none;
+  background-color: rgb(184, 126, 20);
+}
+
+*{
+  outline:none;
+}
+
+table,td{
+  height: 5em;
+  width: 50em;
+  background-color: white;
+  outline-style: dotted;
+  margin-left: 4em;
+}
+
+#entry-submit-doit{
+  height: 2em;
+  width: 4em;
+}
+
